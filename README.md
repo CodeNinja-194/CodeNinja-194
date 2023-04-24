@@ -34,6 +34,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 </Details>
 <Details open="">
 <Summary><b>🛠 Tech. Stacks & Tools</b></Summary>
+
 ### ⚙️ Workstation
 <p>
    <a href="#"><img alt="processor" src ="https://img.shields.io/badge/AMD_R7_12th-0071C5?style=for-the-badge&logo=AMD&logoColor=white"></a>
