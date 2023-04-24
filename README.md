@@ -46,13 +46,14 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Apython"><img alt="| Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3AC"><img alt=" | C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ac%2B%2B"><img alt="| C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Aphp"><img alt="| PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+
 
 ### Web Dev
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Acss"><img alt="| CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ahtml"><img alt="| HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3ASCSS"><img alt="| HTML" src="https://img.shields.io/badge/SCSS-%23E34F26.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Aphp"><img alt="| PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
 ### Libraries/Frameworks :
 <img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
