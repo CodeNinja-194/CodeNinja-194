@@ -1,7 +1,7 @@
-<img src="assets/profile-pic.png" alt="Vishnu Sivan" width=100 />
+<!-- <img src="assets/profile-pic.png" alt="Vishnu Sivan" width=100 />
 <img src="animated/light_1.gif" height="20px" />
 // or
-![Vishnu Sivan](codemaker.png)
+//<!-- ![Sri Ram](profile-pic.png) --> -->
 <h1 align="center">Hi 👋, I'm Ram Prasad</h1>
 <h3 align="center">A passionate developer | Undergraduate Student!<br>
 A Student Pursuing Bachelor of Technology in Computer Science.<br>
