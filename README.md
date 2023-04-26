@@ -1,4 +1,7 @@
-
+<img src="assets/profile-pic.png" alt="Vishnu Sivan" width=100 />
+<img src="animated/light_1.gif" height="20px" />
+// or
+![Vishnu Sivan](codemaker.png)
 <h1 align="center">Hi 👋, I'm Ram Prasad</h1>
 <h3 align="center">A passionate developer | Undergraduate Student!<br>
 A Student Pursuing Bachelor of Technology in Computer Science.<br>
@@ -21,7 +24,9 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 - 🥅 2023 Goals: Learn more about **web3 , DSA , JAVA**
 
-- ⚡ Fun fact: ***Coding has over 700 languages***
+- ⚡ Fun fact: 
+    ##
+    ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
 
@@ -136,10 +141,10 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PixelPilot-dot&label=Profile%20views&color=0e75b6&style=flat" alt="PixelPilot-dot" /> </p>
 <p  align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=PixelPilot-dot" alt="visitor badge"/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=PixelPilot-dot" alt="visitor badge"/> -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
 <a href="https://github.com/PixelPilot-dot">
- <img alt="Ritesh" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+ <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </a>  
 </p>
 <!-- <img align="right" alt="Coding" width="200" src="https://giphy.com/gifs/WVK67YUEoQZG0"/> -->
