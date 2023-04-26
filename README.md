@@ -21,13 +21,13 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 - 🥅 2023 Goals: Learn more about **web3 , DSA , JAVA**
 
-- ⚡ Fun fact: ***In programming, the most common variable name is "i" which stands for index in a loop.***
+- ⚡ Fun fact: ***Coding has over 700 languages***
 
 - 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
 
 - 🥅 I have solved 100+ questions on [LeetCode](https://leetcode.com/L21CS194/).
 
-- 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/suhas9) 
+- 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/l21cs005) 
 
 - 📫 How to reach me by this link "[https://sri-ram-linktree.vercel.app/](https://prasadcodetech-194.vercel.app/)"
 
@@ -106,13 +106,13 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
 
-
+<!-- 
 ### Websites:
 
 ![W3Schools](https://img.shields.io/badge/W3%20Schools-0078d7.svg?style=for-the-badge&logo=w3schools&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![takeuforward](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![takeuforward](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) -->
 </Details>
 <details open="">
   <summary><b>📈 My Github Stats 📊</b></summary>
