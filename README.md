@@ -1,7 +1,5 @@
 <!-- <img src="assets/profile-pic.png" alt="Vishnu Sivan" width=100 />
-<img src="animated/light_1.gif" height="20px" />
-// or
-//<!-- ![Sri Ram](profile-pic.png) --> -->
+<img src="animated/light_1.gif" height="20px" />-->
 <h1 align="center">Hi 👋, I'm Ram Prasad</h1>
 <h3 align="center">A passionate developer | Undergraduate Student!<br>
 A Student Pursuing Bachelor of Technology in Computer Science.<br>
@@ -30,7 +28,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 - 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
 
-- 🥅 I have solved 100+ questions on [LeetCode](https://leetcode.com/L21CS194/).
+- 🥅 I have solved 200+ questions on [LeetCode](https://leetcode.com/L21CS194/).
 
 - 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/l21cs005) 
 
