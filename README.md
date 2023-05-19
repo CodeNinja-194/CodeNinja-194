@@ -145,5 +145,9 @@ Being Standout is my hobby..Trying to be unique always is my goal.
  <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </a>  
 </p>
+
+
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sri_Ram_194&theme=nord) -->
+
 <!-- <img align="right" alt="Coding" width="200" src="https://giphy.com/gifs/WVK67YUEoQZG0"/> -->
 </details>
