@@ -28,7 +28,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 - 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
 
-- 🥅 I have solved 200+ questions on [LeetCode](https://leetcode.com/L21CS194/).
+- 🥅 I have solved 200+ questions on [LeetCode](https://leetcode.com/sri_ram_194/).
 
 - 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/l21cs005) 
 
@@ -126,9 +126,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 </details>
 <details open="">
-
 <summary><b>📈 Top Languages 📊</b></summary>
-
 <p align="center">
  <a href="https://github.com/PixelPilot-dot">
   <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPilot-dot&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
@@ -141,8 +139,8 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <p  align="center">
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=PixelPilot-dot" alt="visitor badge"/> -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
-<a href="https://github.com/PixelPilot-dot">
- <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+<!-- <a href="https://github.com/PixelPilot-dot">
+ <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/> -->
 </a>  
 </p>
 
