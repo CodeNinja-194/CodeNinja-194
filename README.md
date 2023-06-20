@@ -135,17 +135,10 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 </details>
 <details open="">
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PixelPilot-dot&label=Profile%20views&color=0e75b6&style=flat" alt="PixelPilot-dot" /> </p>
-<p  align="center">
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=PixelPilot-dot" alt="visitor badge"/> -->
+<center>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
 <!-- <a href="https://github.com/PixelPilot-dot">
  <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/> -->
-</a>  
-</p>
+</center>
 
-
-<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sri_Ram_194&theme=nord) -->
-
-<!-- <img align="right" alt="Coding" width="200" src="https://giphy.com/gifs/WVK67YUEoQZG0"/> -->
 </details>
