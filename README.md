@@ -109,13 +109,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
 
-<!-- 
-### Websites:
 
-![W3Schools](https://img.shields.io/badge/W3%20Schools-0078d7.svg?style=for-the-badge&logo=w3schools&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![takeuforward](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) -->
 </Details>
 <details open="">
   <summary><b>📈 My Github Stats 📊</b></summary>
