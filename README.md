@@ -131,8 +131,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
 <center>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
-<!-- <a href="https://github.com/PixelPilot-dot">
- <img alt="Ram's" src="https://github-readme-activity-graph.cyclic.app/graph?username=PixelPilot-dot&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/> -->
+
 </center>
 
 </details>
