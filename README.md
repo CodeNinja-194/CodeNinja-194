@@ -47,17 +47,17 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 ### Languages :
 <img alt="Java" src="https://img.shields.io/badge/java-%2300C7B7.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Apython"><img alt="| Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3AC"><img alt=" | C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ac%2B%2B"><img alt="| C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Apython"><img alt="| Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3AC"><img alt=" | C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Ac%2B%2B"><img alt="| C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
 
 ### Web Dev
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Acss"><img alt="| CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ahtml"><img alt="| HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3ASCSS"><img alt="| HTML" src="https://img.shields.io/badge/SCSS-%23E34F26.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Aphp"><img alt="| PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3APixelPilot-dot+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Acss"><img alt="| CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Ahtml"><img alt="| HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3ASCSS"><img alt="| HTML" src="https://img.shields.io/badge/SCSS-%23E34F26.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Aphp"><img alt="| PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
 ### Libraries/Frameworks :
 <img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
@@ -114,23 +114,23 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <details open="">
   <summary><b>📈 My Github Stats 📊</b></summary>
   <p align="center">
-    <a href="https://github.com/PixelPilot-dot"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPilot-dot&theme=highcontrast"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=PixelPilot-dot&theme=radical"></a>
+    <a href="https://github.com/CodeNinja-194"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeNinja-194&theme=highcontrast"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeNinja-194&theme=radical"></a>
   
 
 </details>
 <details open="">
 <summary><b>📈 Top Languages 📊</b></summary>
 <p align="center">
- <a href="https://github.com/PixelPilot-dot">
-  <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPilot-dot&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
+ <a href="https://github.com/CodeNinja-194">
+  <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-194&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
  </a>
 </p>
 </details>
 <details open="">
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
 <center>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPilot-dot" alt="visitor badge"/>     
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeNinja-194" alt="visitor badge"/>     
 
 </center>
 
