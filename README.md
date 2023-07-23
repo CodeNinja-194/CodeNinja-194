@@ -43,7 +43,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <p>
    <a href="#"><img alt="processor" src ="https://img.shields.io/badge/AMD_R7_12th-0071C5?style=for-the-badge&logo=AMD&logoColor=white"></a>
    <a href="#"><img alt="PC" src="https://img.shields.io/badge/Windows-ASUS ROG G15 -0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="PC" src="https://img.shields.io/badge/Macbook air M2 -0078D6?style=for-the-badge&logo=Mac&logoColor=white"></a>
+    <a href="#"><img alt="PC" src="https://img.shields.io/badge/Macbook-air M2 -0078D6?style=for-the-badge&logo=Mac&logoColor=white"></a>
 </p>
 
 ### Languages :
