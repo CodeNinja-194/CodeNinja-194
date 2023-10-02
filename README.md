@@ -27,9 +27,7 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 - 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
 
-- 🥅 I have solved 200+ questions on [LeetCode](https://leetcode.com/sri_ram_194/).
-
-- 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/l21cs005) 
+- 🥅 *****Website for my Coding Profiles :***** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
 
 - 📫 How to reach me by this link "[https://sri-ram-linktree.vercel.app/](https://prasadcodetech-194.vercel.app/)"
 
