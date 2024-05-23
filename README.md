@@ -1,38 +1,34 @@
-<!--<p align="center"><a href="https://chino.is-a.dev"><img src="https://chino.is-a.dev/autumnvn.svg" /></a></p>-->
-<h1 align="center">Hi 👋, I'm Ram Prasad</h1>
-<h3 align="center">A passionate developer | Undergraduate Student!<br>
-A Student Pursuing Bachelor of Technology in Computer Science.<br>
-Being Standout is my hobby..Trying to be unique always is my goal.
+
+<h1 align="center">Hi 👋, I'm Sri Ram Prasad Adusumilli.</h1>
+<h3 align="center">A passionate developer || Undergraduate Student!<br>
+A Student with Bachelor of Technology in Computer Science.<br>
+Being Standout is my hobby..I strive to be unique.
 </h3>
 
 <div align="Center">
-<!-- <img src="https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif"> -->
+
 </div>
 <Details open="">
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250" height="200" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="250" height="200" />
 
 <Summary><b>About me</b></Summary>
 
 - 👍Exploring knowledge since **2.5+** years<br>
 
-- 📃Certified in Coding **(C and JAVA)**
+- 👯 I’m looking to collaborate on **Full-Stack Development**
 
-- 👯 I’m looking to collaborate on **Back-end Development**
+- 🥅 2024 Goals: Learn more about **web3 , DSA , JAVA**
 
-- 🥅 2023 Goals: Learn more about **web3 , DSA , JAVA**
+- ⚡ Fun fact: ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-- ⚡ Fun fact: 
-    ##
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-- 🌱 I’m currently doing *****Competitive Programming and learning Web technologies.*****
+- 🌱 I’m currently doing *****Competitive Programming and learning Spring & Web Development .*****
 
 - 🥅 *****Website for my Coding Profiles :***** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
 
 - 📫 How to reach me by this link "[https://sri-ram-linktree.vercel.app/](https://prasadcodetech-194.vercel.app/)"
 
 </Details>
-<img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
 <Details open="">
 
 
@@ -62,9 +58,11 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 
 ### Libraries/Frameworks :
 <img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="AngularJS" src="https://img.shields.io/badge/angular_js%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=red" />&nbsp;&nbsp;
 <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="Spring" src="https://img.shields.io/badge/spring-%23404d59.svg?style=for-the-badge&logo=spring&logoColor=%Green" />&nbsp;&nbsp;
 
 ### Database Management System :
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
@@ -83,7 +81,6 @@ Being Standout is my hobby..Trying to be unique always is my goal.
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"></a>
     
 </p>
 
@@ -131,8 +128,9 @@ Being Standout is my hobby..Trying to be unique always is my goal.
 <details open="">
 <Summary><b>👨‍💻 Check the other Profiles</Summary>
 <center>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeNinja-194" alt="visitor badge"/>     
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeNinja-194" alt="visitor badge"/>
 
 </center>
 
+<img src="https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif">
 </details>
