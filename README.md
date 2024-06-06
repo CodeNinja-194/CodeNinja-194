@@ -3,7 +3,7 @@
                     A 21 years old web developer from India.
 <div align="center">
 
-![Music Icon](assets/spiderman.gif)
+![Music Icon](assets/Spiderman.gif)
 
 </div>
 <p align="center">
