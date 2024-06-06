@@ -1,39 +1,47 @@
 
-<h1 align="center">Hi 👋, I'm Sri Ram Prasad Adusumilli.</h1>
-<h3 align="center">A passionate developer || Undergraduate Student!<br>
-A Student with Bachelor of Technology in Computer Science.<br>
-Being Standout is my hobby..I strive to be unique.
-</h3>
+## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">I'm Sri Ram Prasad Adusumilli,
+                    A 21 years old web developer from India.
+<div align="center">
 
-<div align="Center">
+![Music Icon](assets/spiderman.gif)
 
 </div>
-<Details open="">
-<!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="250" height="200" /> -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Coding+Streak+365 days;2+starred+on+CodeChef;MERN+Developer;Computer+Science+Student;3.5+star+in+Leetcode;Undergraduate+Student!" alt="Typing SVG" /></a>
+</p>
 
-<Summary><b>About me</b></Summary>
+<summary><b>📈About me</b></summary>
 
-- 👍Exploring knowledge since **2.5+** years<br>
+- 🧑🏻‍💻 Exploring knowledge since **2.5+** years.
 
-- 👯 I’m looking to collaborate on **Full-Stack Development**
+- 🏫 Education: Pursuing a degree in **Computer Science**
+- 🥇 Achievements:
+  - Ranked in the top 10% in multiple competitive programming contests.
+  - Developed and deployed multiple full-stack applications.
+- 🥅 2024 Goals: Learn more about **Web3, DSA, JAVA**.
+- 🌱 Currently:
+  - Enhancing skills in **Competitive Programming**.
+  - Learning **Spring & Web Development**.
+  - Building projects using **React** and **Node.js**.
+- 💼 Experience:
+  - Intern at **Codetantra** as a Technical Trainee Intern.
+  - Volunteered as a **mentor** for coding bootcamps.
+- 💡 Interests:
+  - Java Programming and Spring.
+  - Full Stack Web Development.
+- 🌍 ***Website for my Coding Profiles:*** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
+- 📫 **How to reach me:** [Email](mailto:sriramadusumili98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-ram-prasad-adusumilli/)
+- 🎨 **Hobbies:**
+  - Learning new Technologies.
+  - Playing the guitar.
+  - Traveling and exploring new cultures.
+<img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<br/>
+<br/>
+<br/>
+<br/>
 
-- 🥅 2024 Goals: Learn more about **web3 , DSA , JAVA**
-
-- ⚡ Fun fact: ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-- 🌱 I’m currently doing *****Competitive Programming and learning Spring & Web Development .*****
-
-- 🥅 *****Website for my Coding Profiles :***** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
-
-- 📫 How to reach me by this link "[https://sri-ram-linktree.vercel.app/](https://prasadcodetech-194.vercel.app/)"
-
-</Details>
-<img width="55%" align="right" alt="Github" />
-<Details open="">
-
-
-    
-<Summary><b>🛠 Tech. Stacks & Tools</b></Summary>
+## Tech. Stacks & Tools <img src="assets/code.gif" width="30px" align="center">
 
 ### ⚙️ Workstation
 <p>
@@ -75,8 +83,6 @@ Being Standout is my hobby..I strive to be unique.
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> -->
     <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
@@ -95,7 +101,7 @@ Being Standout is my hobby..I strive to be unique.
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
- ### Hosting : 
+ ### Hosting :
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%2300C7B7.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;
@@ -108,29 +114,36 @@ Being Standout is my hobby..I strive to be unique.
 <img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
 
 
-</Details>
-<details open="">
-  <summary><b>📈 My Github Stats 📊</b></summary>
-  <p align="center">
-    <a href="https://github.com/CodeNinja-194"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeNinja-194&theme=highcontrast"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=CodeNinja-194&theme=radical"></a>
+
+
+## GitHub Stats <img src="assets/stats.gif" width="30px" align="center">
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Codeninja-194&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-194&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4"height="150"   alt="streak graph" />
+</p>
   
 
-</details>
-<details open="">
-<summary><b>📈 Top Languages 📊</b></summary>
+## Contact <img src="assets/contact.gif" width="30px" align="center">
+<br/>
+<p align="center">
+  <a href="https://codeninja194.vercel.app"><img src="assets/pic.png" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli/"><img src="assets/Linkedin logo.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sriramadusumilli98@gmail.com"><img src="assets/Gmail logo.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="assets/Instagram logo.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
+
+</p>
 <p align="center">
  <a href="https://github.com/CodeNinja-194">
-  <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-194&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
+  
  </a>
 </p>
 </details>
-<details open="">
-<Summary><b>👨‍💻 Check the other Profiles</Summary>
-<center>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=CodeNinja-194" alt="visitor badge"/>
 
-</center>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<img src="https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif">
-</details>
+
+<div align="center">
+	<p><b>Visitors Count 🥽</p></b>
+	<img src="https://profile-counter.glitch.me/Codeninja-194/count.svg?" />
+</div>
