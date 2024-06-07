@@ -130,7 +130,6 @@
   <a href="https://codeninja194.vercel.app"><img src="assets/pic.png" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli/"><img src="assets/Linkedin logo.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sriramadusumilli98@gmail.com"><img src="assets/Gmail logo.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="assets/Instagram logo.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
 
 </p>
 <p align="center">
