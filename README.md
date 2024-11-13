@@ -116,12 +116,16 @@ Hi, I'm Sri Ram Prasad Adusumilli
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
-<hr/>
+
+
+<img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="230" />
+<br>
 
 
 
 
 ## GitHub Stats <img src="assets/stats.gif" width="30px" align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeninja-194&custom_title=SriRam%27s%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" alt="Activity Graph" />
 
 <details>
@@ -151,12 +155,11 @@ Hi, I'm Sri Ram Prasad Adusumilli
 
 ## Music  <img src="assets/pic.png" width="30px" align="center">
 
-<p align="center" style="width: 200px; border: 2px solid #1DB954; border-radius: 10px; padding: 10px; background-color: #121212; display: inline-block;">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=skdlymyybezt0sxk4rp4rkjmb&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" style="width: 100%; border-radius: 5px;" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=skdlymyybezt0sxk4rp4rkjmb&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f7a28&bar_color_cover=true" alt="Spotify Profile" />
   </a>
 </p>
-
 
 <hr/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> so if you want to say <b>Hi!.. I'll be happy to meet you more!</b> 😊</em>
