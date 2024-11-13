@@ -1,6 +1,10 @@
 
-## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">I'm Sri Ram Prasad Adusumilli,
-                    A 21 years old web developer from India.
+
+<h1 align="center">
+Hi, I'm Sri Ram Prasad Adusumilli
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+<br/>
+                  
 <div align="center">
 
 ![Music Icon](assets/Spiderman.gif)
@@ -112,26 +116,31 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hyper%20-%23181717.svg?&style=for-the-badge&logo=Hyper&logoColor=white" />&nbsp;&nbsp;
+<hr/>
 
 
 
 
 ## GitHub Stats <img src="assets/stats.gif" width="30px" align="center">
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeninja-194&custom_title=SriRam%27s%20Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&hide_border=true" alt="Activity Graph" />
 
+<details>
+<p align="center">
+ <summary>Click to expand</summary>
   <img src="https://streak-stats.demolab.com?user=Codeninja-194&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img title="🔥" alt="Ram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja-194&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4"height="150"   alt="streak graph" />
+  </details>
 </p>
   
 
 ## Contact <img src="assets/contact.gif" width="30px" align="center">
 <br/>
 <p align="center">
-  <a href="https://codeninja194.vercel.app"><img src="assets/pic.png" alt="portfolio" width="43"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli/"><img src="assets/Linkedin logo.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sriramadusumilli98@gmail.com"><img src="assets/Gmail logo.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pulkitkumarmathur/"><img src="assets/Instagram logo.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
-
+	<a href="https://codeninja194.vercel.app" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100007838206648" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/name_is_sri_ram_/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:sriramadusumilli98@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 <p align="center">
  <a href="https://github.com/CodeNinja-194">
@@ -140,7 +149,17 @@
 </p>
 </details>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+## Music  <img src="assets/pic.png" width="30px" align="center">
+
+<p align="center" style="width: 200px; border: 2px solid #1DB954; border-radius: 10px; padding: 10px; background-color: #121212; display: inline-block;">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=skdlymyybezt0sxk4rp4rkjmb&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" style="width: 100%; border-radius: 5px;" />
+  </a>
+</p>
+
+
+<hr/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> so if you want to say <b>Hi!.. I'll be happy to meet you more!</b> 😊</em>
 
 
 <div align="center">
