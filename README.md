@@ -30,7 +30,7 @@ Hi, I'm Sri Ram Prasad Adusumilli
   - Learning **Spring & Web Development**.
   - Building projects using **React** and **Node.js**.
 - 💼 Experience:
-  - Intern at **Codetantra** as a Technical Trainee Intern.
+  - Employee at **Codetantra** as a Technical Trainee Intern.
   - Volunteered as a **mentor** for coding bootcamps.
 - 💡 Interests:
   - Java Programming and Spring.
@@ -57,7 +57,7 @@ Hi, I'm Sri Ram Prasad Adusumilli
 </p>
 
 ### Languages :
-<img alt="Java" src="https://img.shields.io/badge/java-%2300C7B7.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+<img alt="Java" src="https://img.shields.io/badge/java-%2300C7B7.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB"/>&nbsp;&nbsp;
 <a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Apython"><img alt="| Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3AC"><img alt=" | C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Ac%2B%2B"><img alt="| C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
