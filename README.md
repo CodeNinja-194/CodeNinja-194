@@ -18,29 +18,31 @@ Hi, I'm Sri Ram Prasad Adusumilli
 
 <summary><b>📈About me</b></summary>
 
-- 🧑🏻‍💻 Exploring knowledge since **2.5+** years.
+- 🧑🏻‍💻 Exploring knowledge since **3.0+** years.
 
-- 🏫 Education: Pursuing a degree in **Computer Science**
-- 🥇 Achievements:
-  - Ranked in the top 10% in multiple competitive programming contests.
-  - Developed and deployed multiple full-stack applications.
-- 🥅 2024 Goals: Learn more about **Web3, DSA, JAVA**.
-- 🌱 Currently:
+- 🏫 Education: Pursued a degree in **Computer Science**
+- 🥇 **Achievements:**
+  - Ranked in the **top 10%** in multiple **competitive programming** contests.
+  - Developed and deployed **multiple full-stack applications.**
+  - Trained 500+ students in **Java and Problem-Solving**.
+- 🥅 **2025 Goals:** Learn more about **Web3, DSA, JAVA**.
+- 🌱**Currently:**
   - Enhancing skills in **Competitive Programming**.
   - Learning **Spring & Web Development**.
-  - Building projects using **React** and **Node.js**.
-- 💼 Experience:
-  - Employee at **Codetantra** as a Technical Trainee Intern.
-  - Volunteered as a **mentor** for coding bootcamps.
-- 💡 Interests:
+  - Building scalable projects with **React, Node.js, and Express.js**.
+- 💼 **Experience:**
+  - **Tutor at Codetantra**, mentoring students in coding & problem-solving.
+  - Volunteered as a **mentor** for coding bootcamps & technical training sessions.
+- 💡**Interests:**
   - Java Programming and Spring.
   - Full Stack Web Development.
-- 🌍 ***Website for my Coding Profiles:*** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
+- 🌍 ***Website for my Coding Profiles:** [https://sri-ram-linktree.vercel.app/](https://codeninja194.vercel.app/)
 - 📫 **How to reach me:** [Email](mailto:sriramadusumili98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sri-ram-prasad-adusumilli/)
+- 💡 **Fun Fact:** I love debugging code at 3 AM, just when the best ideas strike! 🚀😆
 - 🎨 **Hobbies:**
-  - Learning new Technologies.
-  - Playing the guitar.
-  - Traveling and exploring new cultures.
+  - Learning about **new technologies & frameworks.**
+  - Playing the **guitar** to unwind after coding.
+  - **Traveling, exploring new places, and experiencing different cultures.**
 <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br/>
 <br/>
