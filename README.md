@@ -12,9 +12,9 @@ Hi, I'm Sri Ram Prasad Adusumilli
 </div>
 <br>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=900&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Coding+Streak+365 days;3+starred+on+CodeChef;MERN+Developer;Computer+Science+Student;3.5+star+in+Leetcode;Undergraduate+Student!" alt="Typing SVG" /></a>
-</p>
+</p>-->
 
 <summary><b>📈About me</b></summary>
 
