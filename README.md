@@ -7,7 +7,7 @@ Hi, I'm Sri Ram Prasad Adusumilli
                   
 <div align="center">
 
-![Music Icon](assets/Spiderman.gif)
+![Music Icon](assets/Githubreadme.gif)
 
 </div>
 <br>
