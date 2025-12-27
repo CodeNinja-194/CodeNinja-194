@@ -3,11 +3,11 @@
 <h1 align="center">
 Hi, I'm Sri Ram Prasad Adusumilli
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-  <i>I don’t just code — I teach people how to think</i>
+  <!-- <i>I don’t just code — I teach people how to think</i> -->
 <br/>
                   
 <div align="center">
-
+<i><h3>I don’t just code — I teach people how to think</h3></i>
 ![Music Icon](assets/Spiderman.gif)
 
 </div>
