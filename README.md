@@ -90,14 +90,22 @@ Hi, I'm Sri Ram Prasad Adusumilli
 <a href="https://github.com/search?q=user%3ACodeNinja-194+is%3Arepo+language%3Ajavascript"><img alt="| JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
 ### Libraries/Frameworks :
+<img alt="SolidJS" src="https://img.shields.io/badge/solid_js%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=red" />&nbsp;&nbsp;
 <img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img alt="AngularJS" src="https://img.shields.io/badge/angular_js%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=red" />&nbsp;&nbsp;
+
+
+
+
+### **BACKEND:** : 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="NestJS" src="https://img.shields.io/badge/nest.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img alt="Spring" src="https://img.shields.io/badge/spring-%23404d59.svg?style=for-the-badge&logo=spring&logoColor=%Green" />&nbsp;&nbsp;
 
 ### Database Management System :
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+<img alt="Supabase" src ="https://img.shields.io/badge/Supabase-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
 
@@ -178,7 +186,6 @@ Hi, I'm Sri Ram Prasad Adusumilli
 
 
 <div align="center">
-	<p><b>Visitors Count 🥽</p></b>
+	<p><b>Visitors Count 🥽 <img src="https://visitor-badge.laobi.icu/badge?page_id=codeninja-194" alt="visitor badge"/> </b> </p>
 	<!-- <img src="https://profile-counter.glitch.me/Codeninja-194/count.svg?" alt="image not found::)"/> -->
-		<img src="https://visitor-badge.laobi.icu/badge?page_id=codeninja-194" alt="visitor badge"/>
 </div>
