@@ -179,5 +179,6 @@ Hi, I'm Sri Ram Prasad Adusumilli
 
 <div align="center">
 	<p><b>Visitors Count 🥽</p></b>
-	<img src="https://profile-counter.glitch.me/Codeninja-194/count.svg?" alt="image not found::)"/>
+	<!-- <img src="https://profile-counter.glitch.me/Codeninja-194/count.svg?" alt="image not found::)"/> -->
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=codeninja-194" alt="visitor badge"/>
 </div>
